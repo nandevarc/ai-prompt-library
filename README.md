@@ -1,6 +1,5 @@
-# ai-prompt-library
-A collection of useful AI prompts for productivity, learning, and content generation.
 # AI Prompt Library
+A collection of useful AI prompts for productivity, learning, and content generation.
 
 This repository contains a curated collection of useful prompts for working with AI (LLMs).
 
@@ -48,6 +47,25 @@ This repository contains a curated collection of useful prompts for working with
 - Build a useful prompt collection
 - Improve prompt engineering skills
 - Explore practical AI use cases
+
+## Use Case
+
+These prompts are designed to help with:
+- Daily productivity
+- Learning new concepts faster
+- Solving problems efficiently
+- Exploring AI capabilities
+
+## Future Plan
+
+- Add more advanced prompts
+- Organize prompts by use case
+- Experiment with different LLM outputs
+
+## Updates
+
+Day 1: Initial prompt collection created
+
 
 ## Status
 
