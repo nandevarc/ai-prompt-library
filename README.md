@@ -70,3 +70,9 @@ Day 1: Initial prompt collection created
 ## Status
 
 Early-stage 🚀
+
+
+## Why This Project
+
+This project is part of my journey to learn and explore AI in a practical way. 
+I focus on building real-world use cases and continuously improving how I use LLMs effectively.
